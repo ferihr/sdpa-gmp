@@ -25,6 +25,8 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307 USA
 #include <sdpa_parts.h>
 
 #define lengthOfString 256
+#define P_FORMAT_obj "%+10.16Fe"
+#define P_FORMAT_gap "%+4.16Fe"
 
 namespace sdpa {
 
